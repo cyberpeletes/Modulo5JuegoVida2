@@ -34,7 +34,7 @@ public class JuegoVida2 {
         
         int gen = 0;
         
-        while(true) {
+        while(true&& gen<50) {
             clearScreen();
             printGrid(grid);
             System.out.println("Gen " + (gen++) + "");
