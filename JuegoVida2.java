@@ -24,7 +24,7 @@ String[][] grid = {
 */
 
 
-public class JuegoVida {
+public class JuegoVida2 {
     private static final String LIFE = "@";
     private static final String DEATH = ".";
     
